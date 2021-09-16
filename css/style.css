@@ -12,7 +12,13 @@ img{max-width:100%;vertical-align:middle;display:inline-block}
   height: 50px;
   background-color: #f2f2f2;
 }
+.left {
+  float: left;
+}
 
+.right {
+  float: right;
+}
 
 .bottom{
   position: absolute;
