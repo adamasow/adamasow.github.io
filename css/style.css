@@ -19,7 +19,10 @@ img{max-width:100%;vertical-align:middle;display:inline-block}
 .right {
   float: right;
 }
-
+main {  
+  position: relative;
+  margin-top: 50px;
+}
 .bottom{
   position: absolute;
   bottom: 0;
