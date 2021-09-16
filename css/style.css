@@ -19,8 +19,8 @@ img{max-width:100%;vertical-align:middle;display:inline-block}
 .nav-right {
   float: right;
 }
-.nav-left a { padding: 15px 0; }
-.nav-right a { padding: 15px;}
+.nav-left a { padding: 15px 0 15px; }
+.nav-right a { padding: 15px 15px 0;}
 main {  
   position: relative;
   margin-top: 50px;
