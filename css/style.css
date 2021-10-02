@@ -8,7 +8,7 @@ main {
   margin-top: 50px;
 }
 .content{padding: 0 15px 0 15px;}
-
+.intro { background: #fff400; }
 .intro {
   position: relative;
   display: -webkit-box;
