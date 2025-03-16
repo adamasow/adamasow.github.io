@@ -41,7 +41,7 @@ img{max-width:100%;vertical-align:middle;display:inline-block}
   left: 0;
   top: auto;
   right: 0;
-  bottom: auto;
+  bottom: 0;
   width: 100%;
 }
 .bottom > div > div { margin : 15px 15px; }
