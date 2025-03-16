@@ -12,7 +12,7 @@ img{max-width:100%;vertical-align:middle;display:inline-block}
   background-color: #f2f2f2;
 }
 
-.top > div > div { padding : -15px 15px; }
+.top > div > div { margin : -15px 15px; }
 .top .left, .top .right {
   display: -webkit-box;
   display: -webkit-flex;
