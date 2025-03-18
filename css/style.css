@@ -37,7 +37,7 @@ img{max-width:100%;vertical-align:middle;display:inline-block}
   position: relative;
   margin-top: 50px;
 }
-.content > div > div > div {padding: 0 15px 0 15px;}
+.middle > div > div > div {padding: 0 15px 0 15px;}
 .bottom{
   position: absolute;
   left: 0;
